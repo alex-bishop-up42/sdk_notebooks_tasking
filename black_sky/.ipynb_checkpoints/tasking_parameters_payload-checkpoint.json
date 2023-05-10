@@ -1,0 +1,20 @@
+{
+    "dataProduct": "613ad1f5-4148-4460-a316-1a97e46058f9",
+    "params": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -80.84239741821287,
+                35.23310416169144
+            ]
+        },
+        "displayName": "TEST_ALEX_BSK",
+        "extraDescription": "SDK build demo",
+        "acquisitionStart": "2023-05-20T00:00:00.000Z",
+        "acquisitionEnd": "2023-06-20T00:00:00.000Z",
+        "acquisitionMode": "standard",
+        "cloudCoverage": 30,
+        "incidenceAngle": 20,
+        "priority": "standard"
+    }
+}
