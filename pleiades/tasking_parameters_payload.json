@@ -1,0 +1,47 @@
+{
+    "dataProduct": "4f866cd3-d816-4c98-ace3-e6105623cf13",
+    "params": {
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        5.054720781627505,
+                        43.41845093294918
+                    ],
+                    [
+                        4.973730526538796,
+                        43.403156635850884
+                    ],
+                    [
+                        4.995281581540942,
+                        43.38021519020344
+                    ],
+                    [
+                        5.069319883403152,
+                        43.39794267093101
+                    ],
+                    [
+                        5.054720781627505,
+                        43.41845093294918
+                    ]
+                ]
+            ]
+        },
+        "displayName": "TEST_ALEX_phr",
+        "extraDescription": "SDK build demo",
+        "acquisitionStart": "2023-05-20T00:00:00.000Z",
+        "acquisitionEnd": "2023-06-20T00:00:00.000Z",
+        "acquisitionMode": "mono",
+        "cloudCoverage": 10,
+        "incidenceAngle": 25,
+        "minBH": null,
+        "maxBH": null,
+        "geometricProcessing": "ortho",
+        "projection": "4326",
+        "spectralProcessing": "pansharpened_4_band",
+        "pixelCoding": "12bits",
+        "radiometricProcessing": "reflectance",
+        "deliveredAs": "jpeg_2000_optimized"
+    }
+}
